@@ -1,5 +1,5 @@
 # Ecommerce with Linear Regression
-This repository contains a data analysis project that focuses on predicting the yearly amount spent by customers using linear regression. We also explore the importance of different features in the model and determine whether some of them are disruptive to the model's performance.
+This repository contains a data analysis project that focuses on predicting the yearly amount spent by customers using linear regression. Also explore the importance of different features in the model and determine whether some of them are disruptive to the model's performance.
 
 ## Table of Contents
 
